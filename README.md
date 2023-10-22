@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishnu70
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning python
+- 👀 I’m Ethical Hacker.
+- 🌱 I’m a Security Reasearcher
 - 📫 G-Mail=vishnukannan7994@gmail.com
 
 <!---
